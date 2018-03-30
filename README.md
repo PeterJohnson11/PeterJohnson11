@@ -30,7 +30,7 @@
 	</p>
 
 	<h4>
-		<a href="example3-css.html"> css </a>
+		<a href="https://www.nfl.com/"> NFL.com </a>
 	</h4>
 
 	<h2>
@@ -41,7 +41,7 @@
 
 	<img src="http://apps.startribune.com/blogs/user_images/nealjustin_1517677371_hart3.jpg" />
 	<h3>
-		<a href="example3-html.html"> html</a>
+		<a href="http://www.philadelphiaeagles.com/"> http://www.philadelphiaeagles.com/</a>
 	</h3>
 
 </body>
